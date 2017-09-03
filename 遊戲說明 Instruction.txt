@@ -1,0 +1,41 @@
+俄羅斯方塊  遊戲說明
+T E T R I S Game Detail Information 
+
+[操作] [Operation]
+
+菜單(Menu) :
+使用 [↑]與[↓] 選擇，按下[Enter]選取。按下[B]可以返回。
+Press [↑] and [↓] to choose , press [Enter] to get . Press [B] can go back.
+
+遊戲(Game):
+使用 [↑] [←] [↓] [→]操縱方塊，[Ｃ]保存當前方塊，再次按下[Ｃ]即可使用 (當前方塊消失)，[Ｘ]可進行旋轉功能同[↑]。
+使用[Space]可快速將方塊降至底下。
+Manipulate blocks by pressing [↑] [↓] [←] [→] ,[C] can save current block , press it again to use it (current block DISAPPEAR).
+Press [Space] can drop down the block swiftly.
+
+[內容介紹]
+
+難度選擇(Difficulty Choose):
+
+簡單(Easy)--速度最慢，可思考時間較久，但相對可能會影響節奏感。
+
+困難(Hard)-- 速度中等，適合一般玩家選擇。
+
+瘋狂(Crazy)--速度最快，可思考時間最短，適合高手挑戰。
+
+模式選擇(Mode Choose):
+
+經典(Classic)--最經典、陽春的模式，給予玩家最初的感動，也是我們開發者的基本分。
+
+特殊(Extra)--有"特殊方塊"的協助，藉由連續觸發來贏得最高成績吧！
+
+挑戰(Nightmare)--最困難的俄羅斯方塊，你肯定沒玩過，想辦法解決掉那個難纏的"磚塊"吧！
+
+
+登錄成績與排行(Register and Rank):
+遊戲結束可以選擇登錄成績，我們最多接受名字可以取 8 個字元，長度超過可能要請你在想想了；
+排行榜我們會顯示最高 10 位，但是你也可以選擇清除他們 ([C]鍵) 。
+
+
+
+
